@@ -1,8 +1,8 @@
 # 📂 Evidencias de Entornos de Desarrollo · DAM 1º
 
-**Alumno:** [BORRA ESTO Y ESCRIBE TU NOMBRE Y APELLIDOS AQUÍ]
+**Alumno:** Daniel Rodríguez León
 **Curso:** 2026/2027
-**Centro:** [ESCRIBE AQUÍ TU CENTRO]
+**Centro:** IES San Alberto Magno
 
 ## 🎯 Sobre este repositorio
 Este repositorio es la memoria viva y evaluable de mi progreso en el módulo de Entornos de Desarrollo. Aquí se documentarán las prácticas, refactorizaciones, diagramas UML y pruebas realizadas durante el curso.
